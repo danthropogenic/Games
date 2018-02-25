@@ -3,6 +3,7 @@
 
 import random
 
+
 word_list = []
 with open('hangman_words.txt','r') as hw:
     word_list = hw.read().split('\n')
