@@ -1,4 +1,8 @@
+#################################################
 # This file creates a menu and runs all the games
+# Written by Dan Sulak
+#
+#################################################
 
 import war, hangman, pick_a_number, rock_paper_scissors
 
